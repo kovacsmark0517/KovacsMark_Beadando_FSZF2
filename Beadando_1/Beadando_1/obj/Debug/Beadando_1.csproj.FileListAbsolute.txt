@@ -1,0 +1,10 @@
+C:\Users\Márk\source\repos\Beadando_1\Beadando_1\bin\Debug\Beadando_1.exe.config
+C:\Users\Márk\source\repos\Beadando_1\Beadando_1\bin\Debug\Beadando_1.exe
+C:\Users\Márk\source\repos\Beadando_1\Beadando_1\bin\Debug\Beadando_1.pdb
+C:\Users\Márk\source\repos\Beadando_1\Beadando_1\obj\Debug\Beadando_1.csprojAssemblyReference.cache
+C:\Users\Márk\source\repos\Beadando_1\Beadando_1\obj\Debug\Beadando_1.Form1.resources
+C:\Users\Márk\source\repos\Beadando_1\Beadando_1\obj\Debug\Beadando_1.Properties.Resources.resources
+C:\Users\Márk\source\repos\Beadando_1\Beadando_1\obj\Debug\Beadando_1.csproj.GenerateResource.cache
+C:\Users\Márk\source\repos\Beadando_1\Beadando_1\obj\Debug\Beadando_1.csproj.CoreCompileInputs.cache
+C:\Users\Márk\source\repos\Beadando_1\Beadando_1\obj\Debug\Beadando_1.exe
+C:\Users\Márk\source\repos\Beadando_1\Beadando_1\obj\Debug\Beadando_1.pdb
